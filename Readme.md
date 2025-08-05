@@ -14,7 +14,7 @@ A powerful **Scientific Calculator** desktop application built using **Python (T
 
 | Calculator | Graph Plotter |
 |------------|---------------|
-| ![Calculator](https://github.com/srinadh75/Calculator--Unit-Converter/blob/35fe001c6a84c8b86c66d667512da1fd327f545d/Screenshot%202025-08-05%20101131.png) | ![Graph Plot](Screenshot 2025-08-05 101301.png) |
+| ![Calculator](https://github.com/srinadh75/Calculator--Unit-Converter/blob/35fe001c6a84c8b86c66d667512da1fd327f545d/Screenshot%202025-08-05%20101131.png) | ![Graph Plot](https://github.com/srinadh75/Calculator--Unit-Converter/blob/0c8d81b84d2c3df5eb2cb1c6eaf495d6761789e9/Screenshot%202025-08-05%20101301.png) |
 
 | Unit Converter | Dark Theme |
 |----------------|------------|
